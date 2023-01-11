@@ -1,3 +1,5 @@
+-- Select the top 5 customers by total amount paid from each country
+
 SELECT DISTINCT(A.country),
 COUNT(DISTINCT D.customer_id) AS all_customer_count,
 COUNT(DISTINCT A.country) AS top_customer_count
