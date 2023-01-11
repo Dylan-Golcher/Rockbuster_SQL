@@ -1,4 +1,4 @@
-
+Select the top 5 customers by total amount paid from each country
 
 WITH top_customer_count_cte (customer_id, first_name, last_name, country, city, total_amount_paid) AS
 (SELECT		A.customer_id, B.first_name, B.last_name, E.country,
