@@ -9,6 +9,8 @@ This project used data from a relational database containing 17 tables on custom
 
 [Rockbuster Stealth LLC Full Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
+## Visualizations
+
 The Tableau visualizations for this project can be found here:
 
 [Tableau Visualizations](https://public.tableau.com/app/profile/dylan.golcher/viz/RockbusterStealthVisualizations_16680553231870/RockbusterStealthStoryboard)
